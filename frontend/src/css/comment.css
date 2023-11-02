@@ -1,0 +1,10 @@
+.review-div{
+    display: flex;
+}
+.reviewComment{
+    flex:1;
+    text-align: left;
+}
+.reviewCreateUser{
+
+}

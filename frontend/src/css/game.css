@@ -1,0 +1,46 @@
+.game-div{
+
+}
+.gameChoiceList-div{
+    display: flex;
+}
+.ChoiceItem{
+    margin-left: 30px;
+}
+.row{
+    /* box-shadow: 5px 5px 10px #000; */
+    width: 600px;
+    margin: auto;
+    border-radius: 3px;
+    border: 1px solid black;
+    padding-top: 30px;
+    margin-top: 30px;
+}
+.moreButton{
+    background: blue;
+    border: 0px;
+    color: white;
+    margin-top: 30px;
+    height: 40px;
+    border-radius: 4px;
+    transition:all 500ms;
+}
+.moreButton:hover{
+    background: red;
+}
+.card{
+    display: flex;
+    justify-content: center;
+    height: 150px;    
+}
+.invest{
+    margin-top: 10px;
+}
+.comment-div{
+    margin: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-top: 10px;
+    width: 600px;
+}
